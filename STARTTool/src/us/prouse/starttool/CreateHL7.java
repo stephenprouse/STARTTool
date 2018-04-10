@@ -21,7 +21,7 @@ public class CreateHL7 {
 		Date date = new Date();
 		String dt = dateFormat.format(date);
 		String outMessage = "";
-		String msh = "MSH|^~\\&|START|START|HIS|START|" + dt + "||ORU^R01|" + dt + "|P|2.5\n";
+		String msh = "MSH|^~\\&|START|START|||" + dt + "||ORU^R01|" + dt + "|P|2.5\n";
 		String pid = "PID|1||" + mrn + "|||||||||||||||" + account + "||\n";
 		String obr = "OBR|||||||" + dt + "\n";
 		String obx = "OBX|1|NM|" + query + "||" + yesNo + "||||||F";
