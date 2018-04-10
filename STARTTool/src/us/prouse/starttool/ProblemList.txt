@@ -1,0 +1,953 @@
+﻿Mnemonic|Name
+109914007|Neoplasm of uncertain behavior of meninges
+116288000|Paralytic stroke
+11687002|Gestational diabetes mellitus
+123843001|Neoplasm of ovary
+126488004|Neoplasm of skin
+126644004|Neoplasm of pelvis
+126788000|Neoplasm of parotid gland
+126809003|Neoplasm of oropharynx
+126824007|Neoplasm of stomach
+126832004|Neoplasm of small intestine
+126847008|Neoplasm of rectum
+126851005|Neoplasm of liver
+126872008|Neoplasm of retroperitoneum
+126880001|Neoplasm of kidney
+126885006|Neoplasm of bladder
+126906006|Neoplasm of prostate
+126926005|Neoplasm of breast
+126952004|Neoplasm of brain
+127018007|Neoplasm of thyroid gland
+127021009|Neoplasm of adrenal gland
+127024001|Neoplasm of pituitary gland
+129154003|Hematologic neoplasm
+13645005|COPD Chronic obstructive lung disease
+15771004|Diabetes insipidus
+160297008|Family history: neoplasm of ovary
+160303001|Family history: Diabetes mellitus
+160402005|Family history: Diabetes in pregnancy
+161445009|History of - diabetes mellitus
+171149006|Screening for malignant neoplasm of cervix
+171183004|Diabetes mellitus screening
+188151006|Malignant neoplasm of central part of female breast
+188152004|Malignant neoplasm of upper-inner quadrant of female breast
+188153009|Malignant neoplasm of lower-inner quadrant of female breast
+188154003|Malignant neoplasm of upper-outer quadrant of female breast
+188155002|Malignant neoplasm of lower-outer quadrant of female breast
+188189001|Malignant neoplasm of corpus uteri, excluding isthmus
+188241004|Malignant neoplasm of lateral wall of urinary bladder
+188243001|Malignant neoplasm of posterior wall of urinary bladder
+188353002|Malignant neoplasm of head, neck and face
+188462001|Secondary malignant neoplasm of brain and spinal cord
+189053003|Benign neoplasm of eyelid including canthus
+189078004|Benign neoplasm of skin of upper limb and shoulder
+189484008|Neoplasm of uncertain behavior of brain and/or spinal cord
+190331003|Diabetes mellitus, adult onset, with hyperosmolar coma
+190368000|Type I diabetes mellitus with ulcer
+190371008|Type I diabetes mellitus - poor control
+190389009|Type II diabetes mellitus with ulcer
+190390000|Type II diabetes mellitus with gangrene
+190392008|Type II diabetes mellitus - poor control
+190447002|Steroid-induced diabetes
+195109001|Acute congestive heart failure
+196001008|Chr obstructive pulmonary disease w/ acute lower respiratory infxn
+199230006|Pre-existing diabetes mellitus, non-insulin-dependent
+237599002|Insulin-treated non-insulin-dependent diabetes mellitus
+254637007|Non-small cell lung cancer
+255166003|Benign neoplasm of respiratory system
+268547008|Screening for malignant neoplasm of breast
+271477007|Benign neoplasm of skin of ear and external auditory meatus
+271479005|Benign neoplasm of pituitary gland and craniopharyngeal duct
+275104002|Family history of stroke
+275918005|Unstable diabetes mellitus
+275937001|Family history of cancer
+275978004|Screening for malignant neoplasm of colon
+289917002|History of bladder neoplasm
+312824007|Family history of cancer of colon
+313296004|Mild chronic obstructive pulmonary disease
+313297008|Moderate chronic obstructive pulmonary disease
+313299006|Severe chronic obstructive pulmonary disease
+313436004|Type II diabetes mellitus without complication
+314904008|Type II diabetes mellitus with neuropathic arthropathy
+315058005|Hereditary nonpolyposis colon cancer
+363346000|Cancer - Malignant neoplastic disease
+371973000|Malignant neoplasm of uterus
+372003004|Primary malignant neoplasm of pancreas
+372010005|Primary malignant neoplasm of soft tissues
+372016004|Primary malignant neoplasm of the peritoneum
+372064008|Malignant neoplasm of female breast
+372126009|Malignant neoplasm of skin of trunk
+372130007|Malignant neoplasm of skin
+401110002|Type 1 diabetes mellitus with persistent microalbuminuria
+414205003|Family history of prostate cancer
+414628006|Lymphoid neoplasm
+414861001|No evidence of recurrence of cancer
+415076002|Personal history of primary malignant neoplasm of breast
+415077006|Personal history of primary malignant neoplasm of bronchus
+415081006|Personal history of primary malignant neoplasm of kidney
+415082004|Personal history of primary malignant neoplasm of lung
+415084003|Personal history of primary malignant neoplasm of skin
+415086001|Personal history of primary malignant neoplasm of urinary bladder
+419645003|Benign neoplasm of oral cavity
+420270002|Ketoacidosis in type I diabetes mellitus
+420279001|Renal disorder associated with type II diabetes mellitus
+420422005|Ketoacidosis in diabetes mellitus
+420715001|Persistent microalbuminuria associated with type II diabetes mellitus
+421165007|Diabetic oculopathy associated with type I diabetes mellitus
+421326000|Neurologic disorder associated with type II diabetes mellitus
+421468001|Neurological disorder associated with type I diabetes mellitus
+421707005|Polyneuropathy associated with type II diabetes mellitus
+421750000|Ketoacidosis in type II diabetes mellitus
+421893009|Renal disorder associated with type I diabetes mellitus
+421986006|Persistent proteinuria associated with type II diabetes mellitus
+422014003|Disorder associated with type II diabetes melliltus
+422099009|Diabetic oculopathy associated with type II diabetes mellitus
+422166005|Peripheral circulatory disorder associated with type II diabetes mellitus
+422504002|Ischemic stroke
+423263001|Diabetic autonomic neuropathy associated with type 2 diabetes mellitus
+42343007|CHF Congestive heart failure
+424989000|Diabetic gastroparesis associated with type 2 diabetes mellitus
+428007007|Erectile dysfunction associated with type 2 diabetes mellitus
+428053000|History of malignant basal cell neoplasm of skin
+428061005|Malignant neoplasm of brain
+428262008|History of malignant neoplasm of prostate
+428281000|Malignant neoplasm of bone
+428905002|Malignant neoplasm of gastrointestinal tract
+428941002|History of malignant neoplasm of uterine body
+429006005|Family history of malignant neoplasm of gastrointestinal tract
+429011007|Family history of malignant neoplasm of lung
+429089000|History of malignant neoplasm of endometrium
+429090009|History of malignant neoplasm of ovary
+429254008|History of malignant neoplasm of thyroid
+429409005|History of malignant neoplasm of tongue
+429410000|History of malignant neoplasm of esophagus
+429444007|History of malignant neoplasm of ureter
+429484003|History of malignant neoplasm of cervix
+429699009|History of malignant neoplasm of colon
+429740004|Family history of malignant neoplasm of breast
+430705002|Family history of malignant neoplasm of ovary
+430947007|Paralytic syndrome of nondominant side as late effect of stroke
+430959006|Paralytic syndrome of dominant side as late effect of stroke
+432519008|Increased cancer antigen 125
+44054006|Diabetes mellitus type 2
+45369008|Neurohypophyseal diabetes insipidus
+46635009|Diabetes mellitus type 1
+5148006|Hypertensive heart disease with congestive heart failure
+60899001|Hypertensive heart disease without congestive heart failure
+73211009|Diabetes mellitus
+74960003|Acute left-sided congestive heart failure
+80479009|Acute right-sided congestive heart failure
+88805009|Chronic congestive heart failure
+92030004|Benign neoplasm of brain
+92051001|Benign neoplasm of cerebral meninges
+92059004|Benign neoplasm of choroid
+92065004|Benign neoplasm of colon
+92071005|Benign neoplasm of cranial nerve
+92102001|Benign neoplasm of female breast
+92258000|Benign neoplasm of orbit
+92260003|Benign neoplasm of ovary
+92264007|Benign neoplasm of pancreas
+92296004|Benign neoplasm of pituitary gland
+92308005|Benign neoplasm of prostate
+92359006|Benign neoplasm of skin of face
+92369000|Benign neoplasm of skin of lip
+92370004|Benign neoplasm of skin of lower limb
+92371000|Benign neoplasm of skin of neck
+92375009|Benign neoplasm of skin of scalp
+92380000|Benign neoplasm of skin of trunk
+92384009|Benign neoplasm of skin
+92394004|Benign neoplasm of soft tissues of lower limb
+92401003|Benign neoplasm of soft tissues of upper limb
+92439006|Benign neoplasm of thyroid gland
+92506005|Biventricular congestive heart failure
+93797001|Primary malignant neoplasm of female genital organ
+93870000|Malignant neoplasm of liver
+93880001|Primary malignant neoplasm of lung
+93934004|Primary malignant neoplasm of ovary
+93974005|Primary malignant neoplasm of prostate
+93980002|Primary malignant neoplasm of rectosigmoid junction
+94022001|Primary malignant neoplasm of skin of face
+94038007|Primary malignant neoplasm of skin of scalp
+94161006|Secondary malignant neoplasm of adrenal gland
+94180008|Secondary malignant neoplasm of axilla
+94222008|Secondary malignant neoplasm of bone
+94225005|Secondary malignant neoplasm of brain
+94243009|Secondary malignant neoplasm of central nervous system
+94254004|Secondary malignant neoplasm of choroid
+94264008|Secondary malignant neoplasm of soft tissues
+94347008|Secondary malignant neoplasm of intra-abdominal lymph nodes
+94350006|Secondary malignant neoplasm of intrapelvic lymph nodes
+94351005|Secondary malignant neoplasm of intrathoracic lymph nodes
+94365007|Secondary malignant neoplasm of large intestine
+94381002|Secondary malignant neoplasm of liver
+94391008|Secondary malignant neoplasm of lung
+94392001|Secondary malignant neoplasm of lymph node
+94393006|Secondary malignant neoplasm of lymph nodes of face
+94397007|Secondary malignant neoplasm of lymph nodes of neck
+94409002|Secondary malignant neoplasm of mediastinum
+94455000|Secondary malignant neoplasm of ovary
+94459006|Secondary malignant neoplasm of pancreas
+94493005|Secondary malignant neoplasm of pleura
+94579000|Secondary malignant neoplasm of skin
+94602001|Secondary malignant neoplasm of vertebral column
+94627008|Secondary malignant neoplasm of the peritoneum
+94628003|Secondary malignant neoplasm of retroperitoneum
+94754000|Neoplasm of uncertain behavior of bladder
+94805002|Neoplasm of uncertain behavior of soft tissues
+94820008|Neoplasm of uncertain behavior of endocrine gland
+94889006|Neoplasm of uncertain behavior of kidney
+94962000|Neoplasm of uncertain behavior of neck
+94963005|Neoplasm of uncertain behavior of nervous system
+94989005|Neoplasm of uncertain behavior of parotid gland
+95087004|Neoplasm of uncertain behavior of skin
+95214007|Primary malignant neoplasm of liver
+IMO-PROB-1003352|Diastolic congestive heart failure
+IMO-PROB-1004396|Malignant neoplasm of brain treated with radiation therapy
+IMO-PROB-1004936|Type 2 diabetes mellitus with diabetic nephropathy
+IMO-PROB-10066171|Type 2 diabetes mellitus, controlled
+IMO-PROB-10066239|Type 1 diabetes mellitus with peripheral circulatory complications
+IMO-PROB-10066269|Diabetes mellitus type 2 with ketoacidosis, uncontrolled
+IMO-PROB-10069307|Type 1 diabetes mellitus with peripheral vascular disease
+IMO-PROB-10069375|Diabetes mellitus with insulin therapy
+IMO-PROB-10069833|Type 2 diabetes mellitus with hyperosmolar nonketotic hyperglycemia
+IMO-PROB-10070406|Dysarthria due to cerebellar stroke
+IMO-PROB-10070447|Type 2 diabetes mellitus with diabetic foot infection
+IMO-PROB-10070547|Congestive heart failure with left ventricular diastolic dysfunction
+IMO-PROB-10084084|Insulin dependent type 2 diabetes mellitus, uncontrolled
+IMO-PROB-1043363|Acute lacunar stroke
+IMO-PROB-1044727|Chronic systolic congestive heart failure, NYHA class 3
+IMO-PROB-1045443|Diabetes mellitus secondary to pancreatectomy
+IMO-PROB-1047194|Malignant neoplasm of urothelium
+IMO-PROB-1047608|Neoplasm of small intestine
+IMO-PROB-1047614|Neoplasm of thoracic spine
+IMO-PROB-1048708|Pulmonary edema with congestive heart failure
+IMO-PROB-1049047|Secondary malignant neoplasm of central nervous system
+IMO-PROB-1049314|Squamous cell cancer of skin of crown
+IMO-PROB-1049689|Systolic congestive heart failure
+IMO-PROB-1051604|Acute embolic stroke
+IMO-PROB-1052714|End stage chronic obstructive pulmonary disease
+IMO-PROB-1053640|Malignant neoplasm of breast with BRCA2 gene mutation
+IMO-PROB-1053651|Malignant neoplasm of ovary with BRCA1 gene mutation
+IMO-PROB-1054021|Obstructive jaundice due to malignant neoplasm
+IMO-PROB-1054716|Squamous cell cancer of skin of buttock
+IMO-PROB-1054729|Steroid-dependent chronic obstructive pulmonary disease
+IMO-PROB-1055761|Neoplasm of anterior mediastinum
+IMO-PROB-1059358|Type 2 diabetes mellitus with end-stage renal disease
+IMO-PROB-1059363|Type 2 diabetes mellitus with stage 3 chronic kidney disease
+IMO-PROB-1075839|Hypertensive crisis without congestive heart failure
+IMO-PROB-1083559|Type 2 diabetes mellitus with vascular disease
+IMO-PROB-1083587|Type 2 diabetes mellitus not at goal
+IMO-PROB-1083668|Acute type 2 diabetes mellitus with manifestations
+IMO-PROB-1083677|Type 1 diabetes mellitus with ketoacidosis not at goal
+IMO-PROB-1083688|Type 2 diabetes mellitus with ketoacidosis not at goal
+IMO-PROB-1083826|Type 2 diabetes mellitus with manifestations
+IMO-PROB-1083839|Type 2 diabetes mellitus with hyperosmolarity
+IMO-PROB-1083863|Uncontrolled type 2 diabetes mellitus with complication
+IMO-PROB-12141|Nephrogenic diabetes insipidus
+IMO-PROB-14486|Maternal diabetes mellitus with hypoglycemia affecting fetus or newborn
+IMO-PROB-1513324|Primary lung cancer with metastasis from lung to other site
+IMO-PROB-1513884|Secondary malignant neoplasm of bone
+IMO-PROB-1524683|Hereditary nonpolyposis colorectal cancer
+IMO-PROB-1525075|Neoplasm of hematologic system
+IMO-PROB-1529254|Neoplasm of prostate
+IMO-PROB-1532980|Malignant neoplasm of left breast
+IMO-PROB-1533011|Malignant neoplasm of right breast
+IMO-PROB-1533036|New onset type 1 diabetes mellitus, uncontrolled
+IMO-PROB-1534037|History of benign neoplasm of brain
+IMO-PROB-1534934|Acute embolic stroke within last 8 weeks
+IMO-PROB-1534943|Hereditary nonpolyposis colorectal cancer syndrome
+IMO-PROB-15489267|Old embolic stroke without late effect
+IMO-PROB-15489274|Old lacunar stroke without late effect
+IMO-PROB-15489494|Pulmonary cachexia due to chronic obstructive pulmonary disease
+IMO-PROB-15495207|Congestive heart failure with LV diastolic dysfunction, NYHA class 3
+IMO-PROB-15495784|Malignant HTN with heart disease, w/o CHF, with chronic kidney disease
+IMO-PROB-15501828|Insulin dependent type 1 diabetes mellitus
+IMO-PROB-15501839|Type 2 diabetes mellitus with diabetic foot ulcer
+IMO-PROB-15502011|CHF with left ventricular diastolic dysfunction, NYHA class 2
+IMO-PROB-15502249|Insulin dependent type 2 diabetes mellitus
+IMO-PROB-15502859|Type 2 diabetes mellitus with diabetic heel ulcer
+IMO-PROB-15502969|Malignant neoplasm of prostate metastatic to bone
+IMO-PROB-15503015|Controlled diabetes mellitus
+IMO-PROB-1556898|History of malignant neoplasm of prostate
+IMO-PROB-1563550|Type 2 diabetes mellitus with diabetic neuropathy
+IMO-PROB-1583964|Diabetes mellitus in pregnancy in second trimester
+IMO-PROB-15848095|Controlled steroid-induced diabetes mellitus
+IMO-PROB-15848289|CHF with left ventricular diastolic dysfunction, NYHA class 1
+IMO-PROB-15848607|Uncontrolled insulin dependent type 1 diabetes mellitus
+IMO-PROB-1588717|Type 2 diabetes mellitus with hyperglycemia
+IMO-PROB-1588718|Type 2 diabetes mellitus with hypoglycemia without coma
+IMO-PROB-1611054|Pre-existing diabetes mellitus in pregnancy
+IMO-PROB-1619732|Type 2 diabetes mellitus with foot ulcer
+IMO-PROB-1619744|Diabetes mellitus due to underlying condition with diabetic nephropathy
+IMO-PROB-1620959|Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+IMO-PROB-1622320|Gestational diabetes mellitus in childbirth, diet controlled
+IMO-PROB-1623184|Gestational diabetes mellitus in childbirth
+IMO-PROB-1633048|Encounter for screening mammogram for malignant neoplasm of breast
+IMO-PROB-1634597|Type 1 diabetes mellitus with hyperglycemia
+IMO-PROB-16546693|Type 2 diabetes mellitus with sensory neuropathy
+IMO-PROB-16549020|Pulmonary edema w/congestive heart failure w/preserved LV function
+IMO-PROB-16549779|Hemiparesis affecting right side as late effect of stroke
+IMO-PROB-16549793|Syst congestive heart failure with reduced LV function, NYHA class 1
+IMO-PROB-16549819|Congestive heart failure with LV diastolic dysfunction, NYHA class 2
+IMO-PROB-1697247|Uncontrolled type 2 diabetes mellitus with end-stage renal disease
+IMO-PROB-1697258|Uncontrolled diabetes mellitus with chronic kidney disease
+IMO-PROB-1698764|Type 2 diabetes mellitus with peripheral autonomic neuropathy
+IMO-PROB-1699113|Uncontrolled diabetes mellitus with blindness
+IMO-PROB-1699188|Diabetes mellitus with foot ulcer
+IMO-PROB-1699204|Uncontrolled type 2 diabetes mellitus with foot ulcer
+IMO-PROB-1699214|Diabetes mellitus with hypoglycemia
+IMO-PROB-1699223|Type 2 diabetes mellitus with hypoglycemia
+IMO-PROB-1699848|History of malignant neoplasm of mouth
+IMO-PROB-1700027|History of malignant neoplasm of tonsil
+IMO-PROB-1700232|History of chronic congestive heart failure
+IMO-PROB-1700240|History of malignant neoplasm of female breast
+IMO-PROB-1700382|History of acute congestive heart failure
+IMO-PROB-1700465|History of benign neoplasm of ovary
+IMO-PROB-1700498|History of malignant neoplasm of colon
+IMO-PROB-1700502|History of malignant neoplasm of rectum
+IMO-PROB-1700712|History of insulin dependent diabetes mellitus
+IMO-PROB-1701168|History of malignant neoplasm of cervix uteri
+IMO-PROB-1701171|History of malignant neoplasm of testis
+IMO-PROB-1701210|History of malignant neoplasm of breast
+IMO-PROB-1702233|Type 2 diabetes mellitus with diabetic polyneuropathy
+IMO-PROB-1702824|History of type 2 diabetes mellitus
+IMO-PROB-1707827|Family history of malignant neoplasm of larynx
+IMO-PROB-1711507|History of malignant neoplasm of cervix
+IMO-PROB-1712074|Diabetic foot ulcer associated with type 2 diabetes mellitus
+IMO-PROB-1712083|Diabetic peripheral neuropathy associated with type 2 diabetes mellitus
+IMO-PROB-1712269|History of malignant neoplasm of uterine body
+IMO-PROB-1712320|Dyslipidemia associated with type 2 diabetes mellitus
+IMO-PROB-1712385|Well controlled type 2 diabetes mellitus
+IMO-PROB-1712498|Primary malignant neoplasm of pancreas
+IMO-PROB-1712524|History of primary malignant neoplasm of urinary bladder
+IMO-PROB-1712533|Persistent proteinuria associated with type 2 diabetes mellitus
+IMO-PROB-1714524|Late effect of stroke
+IMO-PROB-1720970|Angina pectoris associated with type 2 diabetes mellitus
+IMO-PROB-1727835|Very severe chronic obstructive pulmonary disease
+IMO-PROB-1727850|Chronic obstructive pulmonary disease with severity to be determined
+IMO-PROB-1729937|Aphasia as late effect of stroke
+IMO-PROB-1730150|Dysphagia as late effect of stroke
+IMO-PROB-1730967|Diabetes mellitus type 1 with atherosclerosis of arteries of extremities
+IMO-PROB-1730970|Diabetes type 1 with atherosclerosis of arteries of extremities
+IMO-PROB-1730994|Uncontrolled diabetes mellitus type 2 with atherosclerosis of arteries of extremities
+IMO-PROB-1731229|Uncontrolled type 2 diabetes mellitus with peripheral artery disease
+IMO-PROB-1731918|Primary malignant neoplasm of soft tissues
+IMO-PROB-1734063|Pulmonary hypertension due to chronic obstructive pulmonary disease
+IMO-PROB-1740944|Acute on chronic congestive heart failure
+IMO-PROB-1741426|Congestive heart failure with left ventricular systolic dysfunction
+IMO-PROB-1742212|Congestive heart failure with cardiomyopathy
+IMO-PROB-1742821|Congestive heart failure with right heart failure
+IMO-PROB-1806858|Embolic stroke involving left middle cerebral artery
+IMO-PROB-1806888|Embolic stroke involving right middle cerebral artery
+IMO-PROB-1826131|Altered sensation due to stroke
+IMO-PROB-1830453|Chronic obstructive pulmonary disease with acute exacerbation
+IMO-PROB-18389|Primary central diabetes insipidus
+IMO-PROB-18477|Diabetes mellitus without complication
+IMO-PROB-18478|Insulin dependent diabetes mellitus
+IMO-PROB-18488|Maturity onset diabetes mellitus in young
+IMO-PROB-18499|Drug-induced diabetes mellitus
+IMO-PROB-1855843|Malignant neoplasm of throat
+IMO-PROB-18598|Diabetes mellitus and insipidus with optic atrophy and deafness
+IMO-PROB-18608|Diabetes with hyperosmolar coma
+IMO-PROB-193855|Family history of malignant neoplasm of ovary
+IMO-PROB-193856|Family history of malignant neoplasm of prostate
+IMO-PROB-194301|Malignant neoplasm of liver
+IMO-PROB-194307|Malignant neoplasm of bronchus or lung
+IMO-PROB-194326|Malignant neoplasm of skin of trunk
+IMO-PROB-194330|Malignant neoplasm of skin
+IMO-PROB-194331|Malignant neoplasm of cervix
+IMO-PROB-194352|Secondary malignant neoplasm
+IMO-PROB-194423|Benign neoplasm of pancreas
+IMO-PROB-194435|Benign neoplasm of skin of face
+IMO-PROB-194436|Benign neoplasm of skin of trunk
+IMO-PROB-194458|Neoplasm of uncertain behavior of nervous system
+IMO-PROB-194465|Neoplasm of bladder
+IMO-PROB-194467|Neoplasm of brain
+IMO-PROB-194493|Type II diabetes mellitus with neurological manifestations, uncontrolled
+IMO-PROB-194495|Type II diabetes mellitus with peripheral circulatory disorder
+IMO-PROB-194502|Type I diabetes mellitus with manifestations, uncontrolled
+IMO-PROB-194832|Hypertensive heart and renal disease with congestive heart failure
+IMO-PROB-194834|Hypertensive heart and renal disease with congestive heart failure and renal failure
+IMO-PROB-197799|Personal history of malignant neoplasm of skin
+IMO-PROB-2029351|Stroke of unknown etiology
+IMO-PROB-2029494|Uncontrolled type I diabetes mellitus
+IMO-PROB-2030963|Ulcer of right great toe due to diabetes mellitus
+IMO-PROB-2031057|History of ischemic left MCA stroke
+IMO-PROB-2031059|Chronic obstructive pulmonary disease with frequent exacerbations
+IMO-PROB-21648531|Acute cardioembolic stroke
+IMO-PROB-24286283|Stroke-like episode
+IMO-PROB-24287762|Diastolic left CHF w/preserved left ventricular function, NYHA class 4
+IMO-PROB-24287778|Diastolic CHF with preserved left ventricular function, NYHA class 4
+IMO-PROB-24287782|Congestive heart failure, NYHA class 1
+IMO-PROB-24287785|Congestive heart failure, NYHA class 2
+IMO-PROB-24287788|Congestive heart failure, NYHA class 3
+IMO-PROB-24287791|Congestive heart failure, NYHA class 4
+IMO-PROB-24287804|Systolic CHF with reduced left ventricular function, NYHA class 2
+IMO-PROB-24287828|Systolic left-sided congestive heart failure, NYHA class 3
+IMO-PROB-24287853|Diastolic congestive heart failure with preserved left ventricular function, NYHA class 2
+IMO-PROB-24577861|Prostate cancer metastatic to multiple sites
+IMO-PROB-24595499|Diastolic CHF with preserved left ventricular function, NYHA class 2
+IMO-PROB-24595838|Moderate COPD (chronic obstructive pulmonary disease)
+IMO-PROB-25606650|Congestive heart failure of unknown etiology
+IMO-PROB-25619651|Primary malignant neoplasm of female genital organ
+IMO-PROB-25625044|Primary malignant neoplasm of left upper lobe of lung
+IMO-PROB-25625090|Persistent microalbuminuria associated with type II diabetes mellitus
+IMO-PROB-25627723|Primary malignant neoplasm of rectosigmoid junction
+IMO-PROB-25629756|Malignant neoplasm skin of other and unspecified parts of face
+IMO-PROB-25711283|Acute ischemic left middle cerebral artery (MCA) stroke
+IMO-PROB-25711286|Acute ischemic right anterior cerebral artery (ACA) stroke
+IMO-PROB-25711292|Acute ischemic right middle cerebral artery (MCA) stroke
+IMO-PROB-25711295|Acute ischemic right posterior cerebral artery (PCA) stroke
+IMO-PROB-25711706|History of hemorrhagic stroke with residual hemiparesis
+IMO-PROB-26736033|Encounter for diabetes education
+IMO-PROB-26737400|Latent autoimmune diabetes in adults, managed as type 2
+IMO-PROB-26737432|Latent autoimmune diabetes in adults, managed as type 1
+IMO-PROB-26756974|Malignant neoplasm metastatic to lung
+IMO-PROB-26758292|Type 2 diabetes mellitus without complication
+IMO-PROB-27830311|History of malignant neoplasm of left breast
+IMO-PROB-28771|Malignant neoplasm of tongue
+IMO-PROB-28781|Malignant neoplasm of parotid gland
+IMO-PROB-28791|Malignant neoplasm of floor of mouth
+IMO-PROB-28806|Malignant neoplasm of oropharynx
+IMO-PROB-28807|Malignant neoplasm of tonsil
+IMO-PROB-28817|Malignant neoplasm of nasopharynx
+IMO-PROB-28836|Malignant neoplasm of esophagus
+IMO-PROB-28841|Malignant neoplasm of middle third of esophagus
+IMO-PROB-28842|Malignant neoplasm of lower third of esophagus
+IMO-PROB-28845|Malignant neoplasm of stomach
+IMO-PROB-28857|Malignant neoplasm of jejunum
+IMO-PROB-28862|Malignant neoplasm of colon
+IMO-PROB-28863|Malignant neoplasm of hepatic flexure
+IMO-PROB-28864|Malignant neoplasm of transverse colon
+IMO-PROB-28866|Malignant neoplasm of sigmoid colon
+IMO-PROB-28867|Malignant neoplasm of cecum
+IMO-PROB-28869|Malignant neoplasm of ascending colon
+IMO-PROB-28874|Malignant neoplasm of rectosigmoid junction
+IMO-PROB-28875|Malignant neoplasm of rectum
+IMO-PROB-28876|Malignant neoplasm of anal canal
+IMO-PROB-28884|Malignant neoplasm of gallbladder
+IMO-PROB-28889|Malignant neoplasm of pancreas
+IMO-PROB-28891|Malignant neoplasm of tail of pancreas
+IMO-PROB-28914|Malignant neoplasm of larynx
+IMO-PROB-28934|Malignant neoplasm of thymus
+IMO-PROB-28986|Malignant neoplasm of female breast
+IMO-PROB-28989|Malignant neoplasm of upper-inner quadrant of female breast
+IMO-PROB-28990|Malignant neoplasm of lower-inner quadrant of female breast
+IMO-PROB-28991|Malignant neoplasm of upper-outer quadrant of female breast
+IMO-PROB-28996|Malignant neoplasm of male breast
+IMO-PROB-29009|Malignant neoplasm of cervix uteri
+IMO-PROB-29015|Malignant neoplasm of corpus uteri, except isthmus
+IMO-PROB-29019|Malignant neoplasm of ovary
+IMO-PROB-29027|Malignant neoplasm of vagina
+IMO-PROB-29034|Malignant neoplasm of prostate
+IMO-PROB-29035|Malignant neoplasm of testis
+IMO-PROB-29051|Malignant neoplasm of lateral wall of urinary bladder
+IMO-PROB-29053|Malignant neoplasm of posterior wall of urinary bladder
+IMO-PROB-29061|Malignant neoplasm of renal pelvis
+IMO-PROB-29062|Malignant neoplasm of ureter
+IMO-PROB-29063|Malignant neoplasm of urethra
+IMO-PROB-29078|Malignant neoplasm of brain
+IMO-PROB-29080|Malignant neoplasm of frontal lobe
+IMO-PROB-29092|Malignant neoplasm of spinal cord
+IMO-PROB-29096|Malignant neoplasm of thyroid gland
+IMO-PROB-29098|Malignant neoplasm of adrenal gland
+IMO-PROB-29109|Malignant neoplasm of abdomen
+IMO-PROB-29124|Secondary malignant neoplasm of lung
+IMO-PROB-29125|Secondary malignant neoplasm of mediastinum
+IMO-PROB-29126|Secondary malignant neoplasm of pleura
+IMO-PROB-29129|Secondary malignant neoplasm of large intestine and rectum
+IMO-PROB-29136|Secondary malignant neoplasm of skin
+IMO-PROB-29137|Secondary malignant neoplasm of brain and spinal cord
+IMO-PROB-29140|Secondary malignant neoplasm of ovary
+IMO-PROB-29141|Secondary malignant neoplasm of adrenal gland
+IMO-PROB-29143|Secondary malignant neoplasm of breast
+IMO-PROB-29233912|Diabetic oculopathy associated with type 2 diabetes mellitus
+IMO-PROB-29233914|Diabetic oculopathy associated with type 1 diabetes mellitus
+IMO-PROB-29233978|Neoplasm of retroperitoneum
+IMO-PROB-29233980|Neoplasm of uncertain behavior of neck
+IMO-PROB-29233982|No evidence of recurrence of cancer
+IMO-PROB-29233995|Secondary malignant neoplasm of axilla
+IMO-PROB-29233996|Secondary malignant neoplasm of vertebral column
+IMO-PROB-29235032|Type 2 diabetes mellitus with gangrene
+IMO-PROB-29235034|Unstable diabetes mellitus
+IMO-PROB-29240715|Atelectasis or obstructive pneumonitis of entire lung associated with direct extension of malignant neoplasm
+IMO-PROB-29245174|Gangrene associated with diabetes mellitus
+IMO-PROB-29245611|Diabetic gastroparesis associated with type 1 diabetes mellitus
+IMO-PROB-29247544|Diabetes mellitus due to cystic fibrosis
+IMO-PROB-29247696|Neoplasm of uncertain behavior of common bile duct
+IMO-PROB-29497|Benign neoplasm of skin of lip
+IMO-PROB-29504|Benign neoplasm of skin of lower limb, including hip
+IMO-PROB-29506|Benign neoplasm of breast
+IMO-PROB-29517|Benign neoplasm of ovary
+IMO-PROB-29526|Benign neoplasm of prostate
+IMO-PROB-29534|Benign neoplasm of bladder
+IMO-PROB-29541|Benign neoplasm of orbit
+IMO-PROB-29546|Benign neoplasm of choroid
+IMO-PROB-29551|Benign neoplasm of brain
+IMO-PROB-29553|Benign neoplasm of cerebral meninges
+IMO-PROB-29562|Benign neoplasm of pituitary gland and craniopharyngeal duct
+IMO-PROB-29639|Neoplasm of uncertain behavior of bladder
+IMO-PROB-29650|Neoplasm of uncertain behavior of brain and spinal cord
+IMO-PROB-29651|Neoplasm of uncertain behavior of meninges
+IMO-PROB-29660|Neoplasm of uncertain behavior of skin
+IMO-PROB-29688|Diabetes mellitus
+IMO-PROB-29692|Diabetes mellitus with ketoacidosis
+IMO-PROB-29696|Diabetes mellitus with hyperosmolar coma
+IMO-PROB-29711|Diabetes mellitus with neurological manifestations
+IMO-PROB-2977330|Neoplasm of thyroid
+IMO-PROB-30112348|Primary malignant neoplasm of ovary with widespread metastatic disease
+IMO-PROB-30112378|Primary malignant neoplasm of thyroid with metastasis to other site
+IMO-PROB-30115872|History of malignant neoplasm of vulva
+IMO-PROB-30125026|Malignant neoplasm of thoracic part of esophagus
+IMO-PROB-30125309|Malignant neoplasm of urinary tract
+IMO-PROB-30125453|Primary malignant neoplasm of peritoneum
+IMO-PROB-30564652|History of primary malignant neoplasm of bronchus
+IMO-PROB-30934484|Noncompliance with diabetes treatment
+IMO-PROB-310867|Benign neoplasm of cranial nerve
+IMO-PROB-312279|Diabetes mellitus in pregnancy
+IMO-PROB-315020|Malignant neoplasm of cardia of stomach
+IMO-PROB-315021|Malignant neoplasm of central part of female breast
+IMO-PROB-315045|Malignant neoplasm of lower outer quadrant of female breast
+IMO-PROB-315074|Malignant neoplasm of urinary bladder
+IMO-PROB-316930|Primary malignant neoplasm of liver
+IMO-PROB-317397|Screening for malignant neoplasm of cervix
+IMO-PROB-320476|Benign neoplasm of thyroid gland
+IMO-PROB-3215|Pleural effusion due to congestive heart failure
+IMO-PROB-328469|Liver neoplasm
+IMO-PROB-328819|Malignant neoplasm of bone
+IMO-PROB-32917292|Uncontrolled type 2 diabetes mellitus with peripheral neuropathy
+IMO-PROB-32923633|Gangrene associated with type II diabetes mellitus
+IMO-PROB-32931396|Hypervolemia due to congestive heart failure
+IMO-PROB-332845|Secondary malignant neoplasm of brain
+IMO-PROB-332846|Secondary malignant neoplasm of peritoneum
+IMO-PROB-333335|Stage IV cancer of the bladder
+IMO-PROB-33433235|Dyspnea due to congestive heart failure
+IMO-PROB-33433241|Edema due to congestive heart failure
+IMO-PROB-334672|Type 1 diabetes mellitus
+IMO-PROB-334677|Type 2 diabetes mellitus
+IMO-PROB-33892925|Type 1 diabetes mellitus with nephropathy
+IMO-PROB-33892927|Type 1 diabetes mellitus with neurological manifestations
+IMO-PROB-33935012|Malignant neuroendocrine neoplasm
+IMO-PROB-34000746|Malignant neoplasm of greater curve of stomach
+IMO-PROB-34005707|Hyperosmolar non-ketotic state in patient with type 2 diabetes mellitus
+IMO-PROB-34005708|Ketoacidosis in patient with type 1 diabetes mellitus
+IMO-PROB-34005709|Ketoacidosis in patient with type 2 diabetes mellitus
+IMO-PROB-34005711|Complication of diabetes mellitus
+IMO-PROB-34005723|Type 2 diabetes mellitus with hypoglycemia and coma
+IMO-PROB-3403|Hypertensive heart disease with congestive heart failure
+IMO-PROB-3404|Hypertensive heart disease without congestive heart failure
+IMO-PROB-3410|Benign hypertensive heart disease without congestive heart failure
+IMO-PROB-34800|Personal history of malignant neoplasm
+IMO-PROB-34805|Personal history of malignant neoplasm of esophagus
+IMO-PROB-34819|Personal history of malignant neoplasm of breast
+IMO-PROB-34827|Personal history of malignant neoplasm of prostate
+IMO-PROB-34833|Personal history of malignant neoplasm of kidney
+IMO-PROB-34862096|Uncontrolled diabetes mellitus type 2 without complications
+IMO-PROB-34885120|Uncontrolled diabetes mellitus type 1 without complications
+IMO-PROB-34892489|Controlled type 2 diabetes mellitus without complication
+IMO-PROB-34896321|Pre-existing type 2 diabetes mellitus
+IMO-PROB-34927|Family history of malignant neoplasm
+IMO-PROB-34928|Family history of malignant neoplasm of gastrointestinal tract
+IMO-PROB-34931|Family history of malignant neoplasm of breast
+IMO-PROB-34949|Family history of diabetes mellitus
+IMO-PROB-35363135|Uncontrolled type 1 diabetes mellitus with gastroparesis
+IMO-PROB-35368097|Type 2 diabetes, uncontrolled, with severe nonproliferative retinopathy without macular edema
+IMO-PROB-35368112|Uncontrolled type 2 diabetes mellitus with gastroparesis
+IMO-PROB-35371911|Hypertension, essential, malignant, with systolic CHF, NYHA class 1
+IMO-PROB-3537780|Diabetes mellitus with diabetic nephropathy
+IMO-PROB-3545091|Chronic obstructive pulmonary disease case management patient
+IMO-PROB-35514|Screening for diabetes mellitus
+IMO-PROB-3557623|Stroke with cerebral ischemia
+IMO-PROB-3557624|Benign neoplasm of abdomen
+IMO-PROB-3564|Congestive heart failure
+IMO-PROB-3566|Acute congestive heart failure
+IMO-PROB-3567|Acute right-sided congestive heart failure
+IMO-PROB-3568|Acute left-sided congestive heart failure
+IMO-PROB-3569|Chronic congestive heart failure
+IMO-PROB-360536|Severe congestive heart failure
+IMO-PROB-37005350|COPD with acute lower respiratory infection
+IMO-PROB-37006209|History of malignant neoplasm of lung
+IMO-PROB-380144|Adrenal gland neoplasm
+IMO-PROB-380810|Bone neoplasm
+IMO-PROB-380891|Brainstem stroke
+IMO-PROB-384378|Pancreatic neoplasm
+IMO-PROB-384489|Pelvis neoplasm
+IMO-PROB-385277|Skin neoplasm
+IMO-PROB-385464|Stomach neoplasm
+IMO-PROB-386569|Special screening for malignant neoplasms, colon
+IMO-PROB-38679607|History of stroke in prior 3 months
+IMO-PROB-39130|Benign neoplasm of colon
+IMO-PROB-39570286|Primary malignant neoplasm of lung metastatic to other site
+IMO-PROB-39620|Brain neoplasm
+IMO-PROB-40768575|Chronic congestive heart failure with left ventricular diastolic dysfunction
+IMO-PROB-40779089|Benign neoplasm of hilus of right lung
+IMO-PROB-40782391|Malignant neoplasm of upper lobe of left lung
+IMO-PROB-40792124|Malignant neoplasm of lower lobe of right lung
+IMO-PROB-40822001|23-polyvalent pneumococcal polysaccharide vaccine indication of diabetes in patient 6 to 64 years of age
+IMO-PROB-40829931|Stroke or transient ischemic attack (TIA) diagnosed during current admission
+IMO-PROB-41286733|Bronchogenic cancer of left lung
+IMO-PROB-41479168|Non-small cell cancer of left lung
+IMO-PROB-41481823|Non-small cell cancer of right lung
+IMO-PROB-41499625|Acute ischemic vertebrobasilar artery thalamic stroke involving left-sided vessel
+IMO-PROB-41886|Diabetes insipidus
+IMO-PROB-41890|Brittle diabetes mellitus
+IMO-PROB-43012736|Ischemic stroke diagnosed during current admission
+IMO-PROB-43203032|History of recent stroke
+IMO-PROB-4355615|Malignant neoplasm of breast, stage 1, estrogen receptor positive
+IMO-PROB-43745378|Type 1 diabetes mellitus with complications
+IMO-PROB-43819559|Posterior circulation stroke of uncertain pathology
+IMO-PROB-44030600|History of renal cell cancer
+IMO-PROB-44419916|Malignant neoplasm of breast, stage 4
+IMO-PROB-45288141|Malignant neoplasm of middle lobe of right lung
+IMO-PROB-45288333|Type 2 diabetes mellitus with peripheral neuropathy
+IMO-PROB-45317721|Right-sided congestive heart failure
+IMO-PROB-45323624|Pulmonary edema with NYHA class 3 diastolic congestive heart failure
+IMO-PROB-46965395|Status post stroke
+IMO-PROB-48464389|Diet-controlled diabetes mellitus
+IMO-PROB-48666485|Malignant neoplasm of head and neck
+IMO-PROB-48666566|Malignant neoplasm of suprahyoid epiglottis
+IMO-PROB-48666790|Neoplasm of sphenoid sinus
+IMO-PROB-48671191|Uncontrolled type 1 diabetes mellitus
+IMO-PROB-48671216|Uncontrolled type 2 diabetes mellitus
+IMO-PROB-48671872|Uncontrolled type 2 diabetes mellitus with background retinopathy
+IMO-PROB-48676282|Controlled type 1 diabetes mellitus
+IMO-PROB-48682589|Gangrene associated with type 2 diabetes mellitus
+IMO-PROB-48682622|Type 2 diabetes mellitus with hyperosmolarity, uncontrolled
+IMO-PROB-48683460|Systolic CHF with reduced left ventricular function, NYHA class 3
+IMO-PROB-48683599|History of malignant neoplasm of kidney
+IMO-PROB-500132|Type 1 diabetes mellitus with ketoacidosis, uncontrolled
+IMO-PROB-500139|Diabetes mellitus with hypoglycemic coma
+IMO-PROB-500652|Colorectal cancer, stage III
+IMO-PROB-501448|Metastatic primary lung cancer
+IMO-PROB-501572|Facial droop due to stroke
+IMO-PROB-502378|Uncontrolled diabetes mellitus
+IMO-PROB-502435|Family history of colon cancer
+IMO-PROB-502439|Family history of lung cancer
+IMO-PROB-50355118|Diabetes mellitus with autonomic neuropathy
+IMO-PROB-50747972|Diabetes mellitus with hyperglycemia
+IMO-PROB-50748821|Cancer of right lung
+IMO-PROB-50749160|Cancer of lower lobe of left lung
+IMO-PROB-50750234|Cancer of lower lobe of right lung
+IMO-PROB-50750339|Primary cancer of right lung
+IMO-PROB-50751018|Cancer of bronchus of right upper lobe
+IMO-PROB-50754655|Embolic stroke of left basal ganglia
+IMO-PROB-50754955|History of malignant neoplasm of right breast
+IMO-PROB-50992975|Malignant neoplasm of both lungs
+IMO-PROB-50993765|Borderline type 2 diabetes mellitus
+IMO-PROB-50993874|Type 2 diabetes mellitus treated without insulin
+IMO-PROB-50999359|Malignant neoplasm metastatic to brain with unknown primary site
+IMO-PROB-51207023|Type 2 diabetes mellitus with neurological manifestation
+IMO-PROB-51209436|Diabetes mellitus with diabetic neuropathy
+IMO-PROB-51211359|Diabetes mellitus due to underlying condition with circulatory complication
+IMO-PROB-51211386|Neuropathy due to secondary diabetes mellitus
+IMO-PROB-51212815|Stage 4 malignant neoplasm of lung
+IMO-PROB-51213951|Type 2 diabetes mellitus with hyperosmolarity without coma
+IMO-PROB-512295|Genetic susceptibility to breast cancer
+IMO-PROB-513679|Breast cancer screening
+IMO-PROB-513902|Non-small cell lung cancer
+IMO-PROB-51528|Ovarian epithelial cancer
+IMO-PROB-515451|Insulin-requiring or dependent type 2 diabetes mellitus
+IMO-PROB-515690|Borderline diabetes mellitus
+IMO-PROB-516081|Benign neoplasm of scalp
+IMO-PROB-516082|Benign neoplasm of skin of neck
+IMO-PROB-516098|Neoplasm of uncertain behavior of parotid gland
+IMO-PROB-522099|Diabetes mellitus with renal manifestation
+IMO-PROB-522146|History of malignant neoplasm
+IMO-PROB-522365|Malignant neoplasm of breast
+IMO-PROB-525676|Elevated cancer antigen 125 (CA-125)
+IMO-PROB-525901|Neoplasm related pain
+IMO-PROB-526367|Malignant neoplasm of neck
+IMO-PROB-526388|History of bladder cancer
+IMO-PROB-52857341|Dyslipidemia with low high density lipoprotein (HDL) cholesterol with hypertriglyceridemia due to type 2 diabetes mellitus
+IMO-PROB-52857356|Diabetic neuropathy associated with type 2 diabetes mellitus
+IMO-PROB-52857389|Diabetic neuropathy associated with diabetes mellitus due to underlying condition
+IMO-PROB-52857448|Diabetic neuropathy associated with type 1 diabetes mellitus
+IMO-PROB-52857515|Diabetic foot ulcer associated with type 1 diabetes mellitus
+IMO-PROB-52857570|Diabetic ulcer of right foot associated with type 2 diabetes mellitus
+IMO-PROB-52857579|Diabetes mellitus affecting pregnancy
+IMO-PROB-52858023|Microalbuminuria due to type 2 diabetes mellitus
+IMO-PROB-52858201|Hypertension, accelerated, with diastolic congestive heart failure, NYHA class 1
+IMO-PROB-52858622|Neuropathy due to type 2 diabetes mellitus
+IMO-PROB-52863162|Stage 3 chronic kidney disease due to type 2 diabetes mellitus
+IMO-PROB-52863166|Stage 4 chronic kidney disease due to type 2 diabetes mellitus
+IMO-PROB-52863169|Stage 3 chronic kidney disease due to type 1 diabetes mellitus
+IMO-PROB-52863347|Hyperlipidemia associated with type 2 diabetes mellitus
+IMO-PROB-52863804|Hypoglycemia associated with type 2 diabetes mellitus
+IMO-PROB-52863884|Cardiomyopathy associated with type 1 diabetes mellitus
+IMO-PROB-52864414|Hemorrhagic cerebrovascular accident (CVA)
+IMO-PROB-55228035|Accelerated hypertension with diastolic congestive heart failure, NYHA class 3
+IMO-PROB-55231249|Acute systolic congestive heart failure due to valvular disease
+IMO-PROB-55242161|Diastolic congestive heart failure due to valvular disease
+IMO-PROB-55662748|Insulin controlled gestational diabetes mellitus during pregnancy
+IMO-PROB-55670279|Type 2 diabetes with ulcer of lower extremity or foot
+IMO-PROB-56158889|New onset type 2 diabetes mellitus
+IMO-PROB-566981|Addison's disease, struma lymphomatosa and insulin-dependent diabetes
+IMO-PROB-567078|Primary malignant neoplasm of ovary
+IMO-PROB-5717283|Disorder associated with type 2 diabetes mellitus
+IMO-PROB-5717899|Type II diabetes mellitus with neuropathic arthropathy
+IMO-PROB-5719778|Acute ischemic left posterior cerebral artery (PCA) stroke
+IMO-PROB-5724030|History of throat cancer
+IMO-PROB-5724912|Malignant neoplasm metastatic to liver
+IMO-PROB-5726286|Type 2 diabetes mellitus with circulatory disorder
+IMO-PROB-5726409|Malignant neoplasm metastatic to brain
+IMO-PROB-5726649|Malignant neoplasm of upper lobe of right lung
+IMO-PROB-5726703|Malignant neoplasm metastatic to bone
+IMO-PROB-5726711|Metastatic malignant neoplasm
+IMO-PROB-5726996|Poorly controlled type 2 diabetes mellitus with neuropathy
+IMO-PROB-5727055|Thalamic hemorrhage with stroke
+IMO-PROB-5727663|Poorly controlled type 2 diabetes mellitus
+IMO-PROB-57693|Gestational diabetes mellitus
+IMO-PROB-57822359|Type 2 diabetes mellitus affecting pregnancy, antepartum
+IMO-PROB-5922366|Stroke-like symptoms
+IMO-PROB-59455824|Status post surgical removal of neoplasm of skin
+IMO-PROB-59689719|Gestational diabetes mellitus in third trimester
+IMO-PROB-59689722|Insulin controlled gestational diabetes mellitus in third trimester
+IMO-PROB-59690921|End stage renal disease on dialysis due to type 2 diabetes mellitus
+IMO-PROB-59691003|Diabetes mellitus due to pancreatic injury
+IMO-PROB-59691087|Neuropathy due to unstable diabetes mellitus type 1
+IMO-PROB-59691202|Cervical cancer, FIGO stage IVA
+IMO-PROB-59691263|Stage 4 chronic kidney disease due to type 1 diabetes mellitus
+IMO-PROB-59691345|Hypertension in chronic kidney disease due to type 2 diabetes mellitus
+IMO-PROB-59692103|Peripheral sensory neuropathy due to type 2 diabetes mellitus
+IMO-PROB-59692790|Hypertension associated with stage 3 chronic kidney disease due to type 2 diabetes mellitus
+IMO-PROB-59692811|Hypertension associated with stage 4 chronic kidney disease due to type 2 diabetes mellitus
+IMO-PROB-59692995|Chronic pain due to neoplasm
+IMO-PROB-59693146|Hypertension associated with stage 5 chronic kidney disease due to type 2 diabetes mellitus
+IMO-PROB-59700200|Congestive heart failure, NYHA class 4 and ACC/AHA stage D
+IMO-PROB-599108|Type 2 diabetes mellitus with polyneuropathy
+IMO-PROB-599110|Type 2 diabetes mellitus with mononeuropathy
+IMO-PROB-59933456|Osteomyelitis due to type 2 diabetes mellitus
+IMO-PROB-59934182|Type 2 diabetes mellitus with foot ulcer and gangrene
+IMO-PROB-599580|Chronic obstructive pulmonary disease with acute lower respiratory infection
+IMO-PROB-599863|Personal history of malignant neoplasm of lung
+IMO-PROB-600292|Neoplasm of ovary
+IMO-PROB-600574|Neoplasm of kidney
+IMO-PROB-602881|Family history of liver cancer
+IMO-PROB-602964|Family history of type 2 diabetes mellitus
+IMO-PROB-60375|Malignant neoplasm of anterior two-thirds of tongue
+IMO-PROB-60376|Malignant neoplasm of salivary gland
+IMO-PROB-60377|Malignant neoplasm of palate
+IMO-PROB-60378|Malignant neoplasm of mouth
+IMO-PROB-60380|Malignant neoplasm of pharynx
+IMO-PROB-60385|Malignant neoplasm of anus
+IMO-PROB-60387|Malignant neoplasm of head of pancreas
+IMO-PROB-60388|Malignant neoplasm of peritoneum
+IMO-PROB-60392|Malignant neoplasm of mediastinum
+IMO-PROB-60398|Malignant neoplasm of vulva
+IMO-PROB-60402|Malignant neoplasm of female genital organ
+IMO-PROB-60403|Malignant neoplasm of penis
+IMO-PROB-60571|Type II diabetes mellitus with renal manifestations
+IMO-PROB-60575|Type II diabetes mellitus with neurological manifestations
+IMO-PROB-60649882|Type 1 diabetes mellitus without ocular involvement
+IMO-PROB-61491103|Malignant neoplasm metastatic to adrenal gland
+IMO-PROB-61491159|Malignant neoplasm metastatic to intrathoracic lymph node
+IMO-PROB-61728101|White classification A1 gestational diabetes mellitus
+IMO-PROB-61728923|History of malignant neoplasm of breast in adulthood
+IMO-PROB-63202841|Ulcer of right fifth toe due to diabetes mellitus
+IMO-PROB-63216347|Cerebrovascular accident (CVA) due to embolism
+IMO-PROB-63216628|Stroke due to stenosis of right middle cerebral artery
+IMO-PROB-63216666|Stroke due to embolism of right middle cerebral artery
+IMO-PROB-63216754|Cerebrovascular accident (CVA) due to thrombosis
+IMO-PROB-63216774|Stroke due to embolism of left posterior cerebral artery
+IMO-PROB-63452844|Primary malignant neoplasm of breast with metastasis
+IMO-PROB-63453262|Cerebrovascular accident (CVA) of right pontine structure
+IMO-PROB-63453266|Suspected cerebrovascular accident (CVA)
+IMO-PROB-63453267|Recent cerebrovascular accident (CVA)
+IMO-PROB-63453269|Acute cerebrovascular accident (CVA)
+IMO-PROB-63453270|Acute cerebrovascular accident (CVA) of cerebellum
+IMO-PROB-63453293|Personality change due to cerebrovascular accident (CVA)
+IMO-PROB-63453314|Chronic cerebrovascular accident (CVA)
+IMO-PROB-63453345|Cerebrovascular accident (CVA) involving large vessel
+IMO-PROB-63453353|Cerebellar cerebrovascular accident (CVA) without late effect
+IMO-PROB-63453354|Cerebrovascular accident (CVA) involving cerebellum
+IMO-PROB-63453593|Weakness due to cerebrovascular accident (CVA)
+IMO-PROB-63454180|History of cardioembolic cerebrovascular accident (CVA)
+IMO-PROB-63454204|Old cerebrovascular accident (CVA) without late effect
+IMO-PROB-63454223|History of cerebrovascular accident (CVA) with residual deficit
+IMO-PROB-63454239|History of cerebrovascular accident (CVA) from left carotid artery occlusion involving left middle cerebral artery territory
+IMO-PROB-63454276|Cerebrovascular accident (CVA) involving left cerebral hemisphere
+IMO-PROB-63456086|Homonymous hemianopsia following cerebrovascular accident (CVA)
+IMO-PROB-63456111|Visual field loss following cerebrovascular accident (CVA)
+IMO-PROB-63456143|Cognitive deficit due to old cerebrovascular accident (CVA)
+IMO-PROB-63476971|Metastatic malignant neoplasm of unknown primary site
+IMO-PROB-63477470|Hemiparesis as late effect of cerebrovascular accident (CVA)
+IMO-PROB-63477485|Aphasia as late effect of cerebrovascular accident (CVA)
+IMO-PROB-63477488|Dysphagia as late effect of cerebrovascular accident (CVA)
+IMO-PROB-63494903|Chronic obstructive pulmonary disease not affecting current episode of care
+IMO-PROB-63735880|Cerebrovascular accident (CVA) due to embolism of posterior cerebral artery with infarctions of both occipital lobes
+IMO-PROB-63735881|Stage 3 chronic kidney disease due to diabetes mellitus
+IMO-PROB-63750729|Diabetes mellitus due to underlying condition with stage 3 chronic kidney disease
+IMO-PROB-63750732|Ischemic cerebrovascular accident (CVA) of frontal lobe
+IMO-PROB-63757452|Maturity onset diabetes of young (MODY)
+IMO-PROB-64854535|Stroke aborted by administration of thrombolytic agent
+IMO-PROB-64854684|Controlled type 2 diabetes mellitus
+IMO-PROB-64856510|Diabetes mellitus due to underlying condition, uncontrolled, with hyperglycemia
+IMO-PROB-64857037|Diabetes mellitus due to underlying condition, uncontrolled
+IMO-PROB-66231670|Chronic obstructive pulmonary disease without exacerbation
+IMO-PROB-66524355|Gestational diabetes mellitus (GDM)
+IMO-PROB-66946074|Malignant neoplasm metastatic to leptomeninges
+IMO-PROB-67052954|Gestational diabetes mellitus (GDM) in childbirth, insulin controlled
+IMO-PROB-67733732|Gestational diabetes mellitus (GDM) affecting pregnancy, antepartum
+IMO-PROB-683533|History of stroke without residual deficits
+IMO-PROB-683927|Neoplasm of oropharynx
+IMO-PROB-688383|Malignant neoplasm of lung
+IMO-PROB-690694|Gestational diabetes mellitus, diet-controlled
+IMO-PROB-69935391|Gestational diabetes mellitus (GDM) affecting pregnancy
+IMO-PROB-699584|Primary malignant neoplasm of lung
+IMO-PROB-700361|Uncontrolled type 2 diabetes with renal manifestation
+IMO-PROB-700374|Controlled type 2 diabetes with renal manifestation
+IMO-PROB-700410|Uncontrolled type 2 diabetes with neuropathy
+IMO-PROB-700416|Uncontrolled type 1 diabetes with neuropathy
+IMO-PROB-700431|Uncontrolled type 2 diabetes with leg or foot ulcer
+IMO-PROB-700600|Acute stroke due to hemoglobin S disease
+IMO-PROB-700693|Type 2 diabetes, uncontrolled, with peripheral circulatory disorder
+IMO-PROB-701889|Maternal diabetes mellitus classes B through R complicating pregnancy
+IMO-PROB-705937|History of tongue cancer
+IMO-PROB-705942|History of liver cancer
+IMO-PROB-705958|History of TIA (transient ischemic attack) and stroke
+IMO-PROB-705977|Stroke in child due to aneurysm
+IMO-PROB-706292|History of ovarian cancer
+IMO-PROB-706293|History of cervical cancer
+IMO-PROB-706295|History of testicular cancer
+IMO-PROB-709786|Diabetes mellitus type 2 in nonobese
+IMO-PROB-709801|Neoplasm of parotid gland
+IMO-PROB-70982|Paralytic stroke
+IMO-PROB-709927|History of stroke
+IMO-PROB-709979|Infant of mother with gestational diabetes
+IMO-PROB-710057|Recent onset of diabetes mellitus
+IMO-PROB-710668|Pituitary neoplasm
+IMO-PROB-710747|Diabetes mellitus type 2 in obese
+IMO-PROB-711424|History of pituitary neoplasm
+IMO-PROB-713009|Uncontrolled secondary diabetes mellitus
+IMO-PROB-713509|Acidosis due to secondary diabetes
+IMO-PROB-715347|Gastroparesis due to secondary diabetes
+IMO-PROB-715359|Inadequately controlled diabetes mellitus
+IMO-PROB-715788|Poorly controlled diabetes mellitus
+IMO-PROB-716101|Ulcer of lower extremity due to diabetes mellitus
+IMO-PROB-716117|Ulcer of calf due to diabetes mellitus
+IMO-PROB-716130|Ulcer of foot due to secondary diabetes mellitus
+IMO-PROB-716134|Ulcer of heel due to diabetes mellitus
+IMO-PROB-716180|Ulcer of toe due to diabetes mellitus
+IMO-PROB-716196|Steroid-induced diabetes mellitus
+IMO-PROB-716577|Retinopathy due to secondary diabetes mellitus
+IMO-PROB-717879|History of malignant neoplasm of bladder
+IMO-PROB-717930|Secondary malignant neoplasm of intra-abdominal lymph nodes
+IMO-PROB-717944|History of malignant neoplasm of brain
+IMO-PROB-719678|Benign neoplasm of pituitary gland
+IMO-PROB-72305|Chronic obstructive pulmonary disease
+IMO-PROB-72308|Colorectal cancer
+IMO-PROB-72834|Pleural neoplasm
+IMO-PROB-73112|Secondary malignant neoplasm of cervicofacial lymph node
+IMO-PROB-73309|Malignant neoplasm of large intestine
+IMO-PROB-73328|Malignant neoplasm of common bile duct
+IMO-PROB-73350|Malignant neoplasm of gastrointestinal tract
+IMO-PROB-73377|Malignant neoplasm of hilus of lung
+IMO-PROB-734380|Neoplasm of brain causing mass effect on adjacent structures
+IMO-PROB-734521|Personal history of congestive heart failure
+IMO-PROB-734522|History of congestive heart failure
+IMO-PROB-734857|Type 1 diabetes mellitus with ketoacidosis
+IMO-PROB-734859|Type 2 diabetes mellitus with ketoacidosis
+IMO-PROB-73489|Malignant neoplasm of endometrium
+IMO-PROB-73522|Malignant neoplasm of kidney
+IMO-PROB-736092|Malignant neoplasm of lower lobe of lung
+IMO-PROB-736093|Malignant neoplasm of middle lobe of lung
+IMO-PROB-736099|Malignant neoplasm of upper lobe of lung
+IMO-PROB-736100|Neoplasm of uncertain behavior of endocrine gland
+IMO-PROB-736309|History of malignant neoplasm of pancreas
+IMO-PROB-745238|Breast cancer, stage 2
+IMO-PROB-745242|Breast cancer, stage 4
+IMO-PROB-745395|Metastatic neoplasm
+IMO-PROB-745644|Personal history of colon cancer, stage I
+IMO-PROB-745647|History of colon cancer, stage II
+IMO-PROB-745876|Benign neoplasm of female breast
+IMO-PROB-746857|History of cancer of uterus
+IMO-PROB-746886|Arterial ischemic stroke
+IMO-PROB-747057|Benign neoplasm of soft tissues of lower limb
+IMO-PROB-76387|Acute bronchitis with chronic obstructive pulmonary disease (COPD)
+IMO-PROB-77752|Secondary malignant neoplasm of lymph nodes
+IMO-PROB-77949|Benign neoplasm of oral cavity
+IMO-PROB-78016|Benign neoplasm of respiratory organ
+IMO-PROB-800930|Acute ischemic multifocal multiple vascular territories stroke
+IMO-PROB-800931|Acute ischemic multifocal posterior circulation stroke
+IMO-PROB-800936|Acute ischemic vertebrobasilar artery brainstem stroke
+IMO-PROB-800937|Acute ischemic vertebrobasilar artery cerebellar stroke
+IMO-PROB-800938|Acute ischemic vertebrobasilar artery thalamic stroke
+IMO-PROB-801873|Acute ischemic stroke
+IMO-PROB-801997|Suspected congestive heart failure
+IMO-PROB-802250|Neoplasm of cecum
+IMO-PROB-802467|Neoplasm of rectum
+IMO-PROB-802933|Ovarian cancer, primary, with metastasis from ovary to other site
+IMO-PROB-802936|Secondary malignant neoplasm of prostate
+IMO-PROB-803737|History of malignant neoplasm of thyroid
+IMO-PROB-805386|Primary malignant neoplasm of prostate
+IMO-PROB-805737|Benign neoplasm of skin of ear and external auditory meatus
+IMO-PROB-805836|Biventricular congestive heart failure
+IMO-PROB-805853|Benign neoplasm of skin of upper limb and shoulder
+IMO-PROB-806291|Malignant neoplasm of head, neck and face
+IMO-PROB-806413|Neoplasm of uncertain behavior of kidney
+IMO-PROB-806497|Primary malignant neoplasm of appendix
+IMO-PROB-806901|Secondary malignant neoplasm of lymph nodes of neck
+IMO-PROB-807106|Diet-controlled type 2 diabetes mellitus
+IMO-PROB-807306|Malignant neoplasm of skin of face
+IMO-PROB-807687|Gestational diabetes requiring insulin
+IMO-PROB-808644|Uncontrolled type II diabetes mellitus
+IMO-PROB-813010|Benign neoplasm of soft tissues of upper limb
+IMO-PROB-813330|Secondary malignant neoplasm of intrapelvic lymph nodes
+IMO-PROB-813331|Secondary malignant neoplasm of intrathoracic lymph nodes
+IMO-PROB-816191|Type 1 diabetes mellitus without complication
+IMO-PROB-816517|Type II diabetes mellitus with ulcer
+IMO-PROB-816519|Type I diabetes mellitus with ulcer
+IMO-PROB-820062|Benign neoplasm of eyelid
+IMO-PROB-823073|Type 1 diabetes mellitus with persistent microalbuminuria
+IMO-PROB-823407|History of malignant neoplasm of larynx
+IMO-PROB-824090|Severe chronic obstructive pulmonary disease
+IMO-PROB-824431|Mild chronic obstructive pulmonary disease
+IMO-PROB-825017|History of malignant neoplasm of esophagus
+IMO-PROB-825781|History of diabetes mellitus
+IMO-PROB-826291|History of malignant neoplasm of endometrium
+IMO-PROB-826293|History of malignant neoplasm of ureter
+IMO-PROB-826513|Secondary malignant neoplasm of soft tissues
+IMO-PROB-826514|Secondary malignant neoplasm of pancreas
+IMO-PROB-826515|Secondary malignant neoplasm of lymph nodes of face
+IMO-PROB-826516|Secondary malignant neoplasm of choroid
+IMO-PROB-826521|Primary malignant neoplasm of skin of scalp
+IMO-PROB-826539|Family history of neoplasm of ovary
+IMO-PROB-826542|Family history of diabetes in pregnancy
+IMO-PROB-826602|Lymphoid neoplasm
+IMO-PROB-829754|Erectile dysfunction associated with type 2 diabetes mellitus
+IMO-PROB-829830|Diabetic gastroparesis associated with type 2 diabetes mellitus
+IMO-PROB-829835|Ischemic stroke
+IMO-PROB-83125|Secondary malignant neoplasm of liver
+IMO-PROB-845238|MDS/MPN (myelodysplastic/myeloproliferative neoplasms)
+IMO-PROB-845584|Hypertension associated with diabetes
+IMO-PROB-845586|Hypoglycemia associated with diabetes
+IMO-PROB-846528|Osteopenia due to cancer therapy
+IMO-PROB-846529|Obesity due to cancer therapy
+IMO-PROB-84901|Benign neoplasm of skin
+IMO-PROB-849021|Non-insulin dependent type 2 diabetes mellitus
+IMO-PROB-85000|Breast neoplasm
+IMO-PROB-85068|Malignant neoplasm
+IMO-PROB-851147|Diabetes mellitus with ketoacidosis, uncontrolled
+IMO-PROB-851204|Type 2 diabetes mellitus with neurological manifestations
+IMO-PROB-851920|Acute exacerbation of congestive heart failure
+IMO-PROB-853117|Acute systolic congestive heart failure
+IMO-PROB-853119|Chronic systolic congestive heart failure
+IMO-PROB-853123|Acute diastolic congestive heart failure
+IMO-PROB-853125|Chronic diastolic congestive heart failure
+IMO-PROB-853127|Acute on chronic diastolic congestive heart failure
+IMO-PROB-853131|Chronic combined systolic and diastolic congestive heart failure
+IMO-PROB-853134|Systolic and diastolic CHF, acute on chronic
+IMO-PROB-88207|Hemorrhagic stroke
+IMO-PROB-88726|Benign neoplasm
+IMO-PROB-88972|Malignant neoplasm of uterus
+IMO-PROB-922584|Secondary malignant neoplasm of retroperitoneum
+IMO-PROB-922790|Acute on chronic systolic congestive heart failure
+IMO-PROB-940305|Cerebrovascular accident (CVA)
+IMO-PROB-943687|Charcot's joint of foot due to diabetes
+IMO-PROB-945095|Acute pulmonary edema with congestive heart failure
+IMO-PROB-954768|Acute chronic obstructive pulmonary disease with respiratory distress
+IMO-PROB-954771|Acute chronic obstructive pulmonary disease with respiratory failure
+IMO-PROB-960532|CVA, old, alterations of sensations
+IMO-PROB-961513|CVA, old, speech/language deficit
+IMO-PROB-965605|Personal history of malignant neoplasm of vagina
+IMO-PROB-966202|Neoplasm of cardiac atrium
