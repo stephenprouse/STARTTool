@@ -30,7 +30,7 @@ import org.xml.sax.SAXException;
 public class Start1 {
 	
 	/*
-	 * Boost1 gets the current inpatient census and builds a table of all
+	 * Start1 gets the current inpatient census and builds a table of all
 	 * their medications. The program then loops through each medication
 	 * looking for patients on particular high risk medications as provided
 	 * on the text document that is loaded into the Dictionary.
